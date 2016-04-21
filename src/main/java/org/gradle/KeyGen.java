@@ -18,6 +18,8 @@ public class KeyGen {
 		// TODO Auto-generated method stub
 		Scanner scanner = new Scanner(System.in);
 		
+		System.out.println("HIHI");
+		
 		try
         {
             Cipher cipher = Cipher.getInstance("AES/ECB/PKCS5Padding");
