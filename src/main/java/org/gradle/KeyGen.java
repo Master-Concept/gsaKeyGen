@@ -18,7 +18,7 @@ public class KeyGen {
 		// TODO Auto-generated method stub
 		Scanner scanner = new Scanner(System.in);
 		
-		System.out.println("HIHI");
+		System.out.println("HIHI123456");
 		
 		try
         {
